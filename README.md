@@ -1,25 +1,11 @@
-<!--## Hi there 👋--!>
+![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)
 
-<!--
-**shibangibaidya/shibangibaidya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-[![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)
 
 <h1 align="center">Hi 👋, I'm Shibangi Baidya</h1>
 <h3 align="center">A Passionate Software Developer from India</h3>
 
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/06fa7a9aa91a074222a5be8b70cf36b49f5c5021c518bac26263809d7ef4883c/68747470733a2f2f7374617274636f64696e672e636f2e696e2f77702d636f6e74656e742f75706c6f6164732f323032312f31322f636f64696e672d666f722d6b6964732e676966">
+<img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shibangibaidya&label=Profile%20views&color=0e75b6&style=flat" alt="shibangibaidya" /> </p>
 
@@ -40,5 +26,3 @@ Here are some ideas to get you started:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shibangibaidya&show_icons=true&locale=en&layout=compact" alt="shibangibaidya" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shibangibaidya&show_icons=true&locale=en" alt="shibangibaidya" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shibangibaidya&" alt="shibangibaidya" /></p>
