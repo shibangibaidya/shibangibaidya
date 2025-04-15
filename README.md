@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **Artificial Intelligence & Machine Learning**
 
-- 📫 How to reach me **baidyashibangi@gmail.com**
+<!--- 📫 How to reach me **baidyashibangi@gmail.com**-->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
