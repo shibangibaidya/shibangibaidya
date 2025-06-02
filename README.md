@@ -9,7 +9,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shibangibaidya&label=Profile%20views&color=0e75b6&style=flat" alt="shibangibaidya" /> </p>
 
-- 🔭 I’m currently working on **Autism Prediction using ML Project**
+<!--- 🔭 I’m currently working on **Autism Prediction using ML Project**-->
 
 - 🌱 I’m currently learning **Artificial Intelligence & Machine Learning**
 
